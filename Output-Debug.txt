@@ -1,0 +1,45 @@
+﻿'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Users\stacy\Downloads\PÍA (1)_1\PÍA\x64\Debug\PÍA PROGRA AVANZADA.exe'. Symbols loaded.
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\apphelp.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\comdlg32.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.22621.2506_none_b43bab19638c9595\comctl32.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\TextShaping.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.22621.2506_none_270c5ae97388e100\comctl32.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. 
+clientcore\windows\advcore\ctf\uim\tim.cpp(800)\MSCTF.dll!00007FFD980662B9: (caller: 00007FFD98066EEC) LogHr(1) tid(5d34) 8007029C An assertion failure has occurred.
+clientcore\windows\advcore\ctf\uim\tim.cpp(800)\MSCTF.dll!00007FFD980662B9: (caller: 00007FFD98066EEC) LogHr(2) tid(5d34) 8007029C An assertion failure has occurred.
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\cryptbase.dll'. 
+'PÍA PROGRA AVANZADA.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+The thread 0x1b8 has exited with code 0 (0x0).
+The thread 0x5318 has exited with code 0 (0x0).
+The thread 0x43d4 has exited with code 0 (0x0).
+The program '[16468] PÍA PROGRA AVANZADA.exe' has exited with code 0 (0x0).
